@@ -200,54 +200,11 @@ img { max-width: 100%; height: auto; }
   .messengers { flex-direction: column; }
 }
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 
 
-    /* ── HERO ── */
-    .hero {
-      position: relative;
-      min-height: 520px;
-      display: flex;
-      align-items: center;
-      overflow: hidden;
-      background: #111827;
-    }
-    .hero-bg {
-      position: absolute;
-      inset: 0;
-      background-image: url('https://www.servicepc.pl.ua/images/hero1.png');
-      background-size: cover;
-      background-position: center;
-    }
-    .hero-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(to right, rgba(17,24,39,0.92) 0%, rgba(17,24,39,0.75) 50%, rgba(0,0,0,0.2) 100%);
-    }
-    .hero .container { position: relative; z-index: 1; padding: 80px 24px; }
-    .hero-content { max-width: 580px; }
-    .hero-content h1 {
-      font-size: 32px;
-      font-weight: 700;
-      color: #fff;
-      line-height: 1.25;
-      margin-bottom: 16px;
-    }
-    .hero-content h1 span { color: #00A8E8; }
-    .hero-content p {
-      font-size: 19.2px;
-      color: rgba(255,255,255,0.9);
-      margin-bottom: 32px;
-      line-height: 1.6;
-    }
-    .hero-buttons { display: flex; gap: 16px; flex-wrap: wrap; }
-
+   
     
-    .feature-card:last-child { border-right: none; }
-    .feature-icon { font-size: 2rem; flex-shrink: 0; }
-    .feature-card h3 { font-size: 17.6px; font-weight: 600; color: #1F2937; margin-bottom: 2px; }
-    .feature-card p { font-size: 15.2px; color: #6B7280; }
 
     
 
