@@ -4,42 +4,47 @@
 
   <url>
        <loc>https://www.servicepc.pl.ua/</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/index.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/poslugy.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.servicepc.pl.ua/chistka_notebook.html</loc>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/skupka.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/prise.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/pro-nas.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/kontakty.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://www.servicepc.pl.ua/chistka.html</loc>
-       <lastmod>2026-09-01T18:48:21+00:00</lastmod>
+       <lastmod>2026-09-02T20:27:01+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
 </urlset>
